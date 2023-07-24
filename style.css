@@ -1,0 +1,21 @@
+  body
+  {
+    color: red;
+    background: paleturquoise;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera,#result
+  {
+    border: 2px solid whitesmoke;
+    width: 350px;
+    height: 300px; 
+  }
+  #view{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
